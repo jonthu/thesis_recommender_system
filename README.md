@@ -1,4 +1,4 @@
-# thesis_recommender_system
+# Error report recommender system
 Collaborative filtering based recommender system for an error/risk report scenario.
 
 Collaborative filtering is a common recommender system technique, which entails basing recommendations to a user based on choices made by previous users with similar preferences. In the typical e-commerce or media streaming scenario, this can be rather straight forwardly by encoding purchace or streaming history as a vector whose *n:th* element gives the number of purchaces/streams of item *n*. 
